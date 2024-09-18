@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <ThemeProvider>
-        <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-700 dark:text-gray-300 font-mono py-10">
+        <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-700 dark:text-gray-300 font-mono py-6">
           <AboutMe />
           <Projects />
           <Experience />
