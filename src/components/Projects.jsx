@@ -140,6 +140,11 @@ function Projects() {
   ];
 
   return (
+    <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, delay: 5 * 0.1 }}
+            >
     <div className="max-w-4xl mx-auto">
       <div className="p-5 space-y-4">
         <h2 className="text-2xl font-bold dark:text-white">Projects</h2>
@@ -149,7 +154,7 @@ function Projects() {
               key={index}
               initial={{ opacity: 0, y: 50 }}
               animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: index * 0.1 }}
+              transition={{ duration: 0.5, delay: 6 * 0.1 }}
             >
               <CardSpotlight className="w-full h-full relative z-40">
                 <div className="border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden h-full flex flex-col relative">
@@ -199,6 +204,7 @@ function Projects() {
         </div>
       </div>
     </div>
+     </motion.div>
   );
 }
 

@@ -30,6 +30,11 @@ function Skills() {
   ];
 
   return (
+    <motion.div
+            initial={{ opacity: 0, y: 50 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5, delay: 13 * 0.1 }}
+          >
     <div className="max-w-4xl mx-auto">
       <div className="p-5 space-y-4">
         <h2 className="text-2xl font-bold dark:text-white">Skills</h2>
@@ -65,6 +70,7 @@ function Skills() {
         </div>
       </div>
     </div>
+    </motion.div>
   );
 }
 
