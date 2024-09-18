@@ -41,7 +41,7 @@ function Skills() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 14 * 0.1 }}
           >
-             <CardSpotlight className="w-full h-full relative z-50">
+             <CardSpotlight className="w-full h-full relative z-40">
               <div key={index} className="border h-full w-full border-gray-200 dark:border-gray-700 rounded-md overflow-hidden">
                 <div className="p-4 space-y-3">
                   <h3 className="text-lg text-left font-semibold text-gray-700 dark:text-white">

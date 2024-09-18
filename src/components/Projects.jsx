@@ -151,7 +151,7 @@ function Projects() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: index * 0.1 }}
             >
-              <CardSpotlight className="w-full h-full relative z-50">
+              <CardSpotlight className="w-full h-full relative z-40">
                 <div className="border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden h-full flex flex-col relative">
                   <div className="p-4 space-y-3 flex-grow">
                     <h3 className="text-lg font-semibold pr-8 text-gray-700 dark:text-white">
