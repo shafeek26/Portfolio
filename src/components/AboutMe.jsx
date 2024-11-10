@@ -2,7 +2,7 @@
 import { useContext } from "react";
 import { IconWorld } from "@tabler/icons-react";
 import { ThemeContext } from "../context/ThemeContext";
-import { IconSun, IconMoon } from '@tabler/icons-react';
+import { IconSun, IconMoon } from "@tabler/icons-react";
 import { motion } from "framer-motion";
 import { FloatingDockDemo } from "./FloatingDockDemo";
 import { BackgroundGradient } from "../ui/background-gradient";
@@ -26,9 +26,9 @@ function AboutMe() {
               </span>
             </h2>
             <p className="text-sm dark:text-gray-300">
-              Jr. Full Stack Engineer focused on learning through{" "}
+            AI-Driven Digital Strategist & Tech Enthusiast | Customer-Centric Innovator |{" "}
               <br className="hidden md:inline" />
-              experimentation and product development.
+              Elevating Customer Experiences in the AI Era.
             </p>
             <p>
               <a
@@ -41,24 +41,29 @@ function AboutMe() {
             <FloatingDockDemo />
           </div>
           <div>
-          <BackgroundGradient className="max-w-sm p-[.5px]  bg-sky-blue-800 dark:bg-sky-blue-800">
-            <img
-              src="./images/profile2.jpeg"
-              alt="profile"
-              className="h-36 w-36 object-cover rounded-[12PX]"
-            />
+            <BackgroundGradient className="max-w-sm p-[.5px]  bg-sky-blue-800 dark:bg-sky-blue-800">
+              <img
+                src="./images/profile2.jpeg"
+                alt="profile"
+                className="h-36 w-36 object-cover rounded-[12PX]"
+              />
             </BackgroundGradient>
           </div>
         </div>
         <div className="p-5 space-y-2">
           <h2 className="text-2xl font-bold dark:text-white">About Me </h2>
           <p className="text-sm dark:text-gray-300">
-            I’m a full-stack web developer dedicated to turning visions into
-            digital reality. Each project is a chance to create something
-            meaningful, and I’m driven by the joy of building functional,
-            elegant solutions. Every project challenges me to grow, and I’m 
-            fueled by the thrill of building powerful, intuitive applications 
-            from scratch.Let's build something great together!
+            With over 4 years of experience across customer service, digital
+            advisory, and operations, I’m a versatile professional dedicated to
+            enhancing customer experiences and driving operational efficiency.
+            In an era powered by AI, I bridge the gap between technology and
+            customer engagement, optimizing processes with data-driven insights
+            and strategic problem-solving. My expertise spans managing CRM
+            systems, resolving escalated issues, and improving customer
+            satisfaction metrics, making me adept at fostering positive digital
+            experiences. Passionate about leveraging AI tools, I continuously
+            seek innovative ways to streamline operations and drive
+            customer-centric outcomes.
           </p>
         </div>
         <button

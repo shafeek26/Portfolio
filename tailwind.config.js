@@ -13,6 +13,9 @@ export default {
       fontFamily: {
         mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', '"Liberation Mono"', '"Courier New"', 'monospace'],
       },
+      animation: {
+        scroll: 'scroll 20s linear infinite',
+      },
     },
   },
   plugins: [addVariablesForColors],
