@@ -7,7 +7,7 @@ function Projects() {
       title: "Real-time Chat Application",
       description:
         "A full-stack chat application with real-time messaging using Socket.io, user authentication, and message history.",
-      link: "https://github.com/username/real-time-chat",
+      link: "https://chat-zesty.netlify.app",
       tags: [
         "MERN",
         "Socket.io",
