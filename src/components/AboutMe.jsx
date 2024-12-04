@@ -53,7 +53,7 @@ function AboutMe() {
         <div className="p-5 space-y-2">
           <h2 className="text-2xl font-bold dark:text-white">About Me </h2>
           <p className="text-sm dark:text-gray-300">
-            With over 4 years of experience across customer service, digital
+            With over 2 years of experience across customer service, digital
             advisory, and operations, I’m a versatile professional dedicated to
             enhancing customer experiences and driving operational efficiency.
             In an era powered by AI, I bridge the gap between technology and
