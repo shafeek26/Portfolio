@@ -45,97 +45,97 @@ function Projects() {
         "Express Middleware",
       ],
     },
-    {
-      title: "Social Media Dashboard",
-      description:
-        "An analytics dashboard for social media managers, integrating multiple platform APIs and data visualization.",
-      link: "https://github.com/username/social-dashboard",
-      tags: ["MERN", "D3.js", "OAuth", "RESTful API", "Cron Jobs", "Recharts"],
-    },
-    {
-      title: "Blog Platform with CMS",
-      description:
-        "A full-featured blogging platform with a custom Content Management System for easy content creation and management.",
-      link: "https://github.com/username/mern-blog-cms",
-      tags: [
-        "MERN",
-        "Rich Text Editor",
-        "Image Upload",
-        "SEO Optimization",
-        "User Roles",
-        "Pagination",
-      ],
-    },
-    {
-      title: "Job Board and Application Tracker",
-      description:
-        "A platform for job seekers and employers with job postings, applications, and application status tracking.",
-      link: "https://github.com/username/job-board-tracker",
-      tags: [
-        "MERN",
-        "Redux Saga",
-        "Formik",
-        "Email Integration",
-        "PDF Generation",
-        "Search Functionality",
-      ],
-    },
-    {
-      title: "Fitness Tracking App",
-      description:
-        "A comprehensive fitness application with workout logging, progress charts, and nutrition tracking.",
-      link: "https://github.com/username/fitness-tracker",
-      tags: [
-        "MERN",
-        "Chart.js",
-        "React Hooks",
-        "JWT Refresh Tokens",
-        "Mongoose Virtuals",
-        "Progressive Web App",
-      ],
-    },
-    {
-      title: "Recipe Sharing Community",
-      description:
-        "A platform for food enthusiasts to share, discover, and rate recipes with advanced search and filtering options.",
-      link: "https://github.com/username/recipe-community",
-      tags: [
-        "MERN",
-        "Elasticsearch",
-        "Redux Thunk",
-        "Cloudinary",
-        "Social Auth",
-        "Infinite Scrolling",
-      ],
-    },
-    {
-      title: "Online Learning Management System",
-      description:
-        "An e-learning platform with course creation, video lessons, quizzes, and student progress tracking.",
-      link: "https://github.com/username/mern-lms",
-      tags: [
-        "MERN",
-        "WebRTC",
-        "Redux Observable",
-        "MongoDB Transactions",
-        "Stripe Subscriptions",
-        "React Suspense",
-      ],
-    },
-    {
-      title: "Real Estate Listing Portal",
-      description:
-        "A property listing website with advanced search, virtual tours, and agent-client messaging system.",
-      link: "https://github.com/username/realestate-portal",
-      tags: [
-        "MERN",
-        "Google Maps API",
-        "WebSockets",
-        "Redux Persist",
-        "Image Carousel",
-        "Geospatial Queries",
-      ],
-    },
+    // {
+    //   title: "Social Media Dashboard",
+    //   description:
+    //     "An analytics dashboard for social media managers, integrating multiple platform APIs and data visualization.",
+    //   link: "https://github.com/username/social-dashboard",
+    //   tags: ["MERN", "D3.js", "OAuth", "RESTful API", "Cron Jobs", "Recharts"],
+    // },
+    // {
+    //   title: "Blog Platform with CMS",
+    //   description:
+    //     "A full-featured blogging platform with a custom Content Management System for easy content creation and management.",
+    //   link: "https://github.com/username/mern-blog-cms",
+    //   tags: [
+    //     "MERN",
+    //     "Rich Text Editor",
+    //     "Image Upload",
+    //     "SEO Optimization",
+    //     "User Roles",
+    //     "Pagination",
+    //   ],
+    // },
+    // {
+    //   title: "Job Board and Application Tracker",
+    //   description:
+    //     "A platform for job seekers and employers with job postings, applications, and application status tracking.",
+    //   link: "https://github.com/username/job-board-tracker",
+    //   tags: [
+    //     "MERN",
+    //     "Redux Saga",
+    //     "Formik",
+    //     "Email Integration",
+    //     "PDF Generation",
+    //     "Search Functionality",
+    //   ],
+    // },
+    // {
+    //   title: "Fitness Tracking App",
+    //   description:
+    //     "A comprehensive fitness application with workout logging, progress charts, and nutrition tracking.",
+    //   link: "https://github.com/username/fitness-tracker",
+    //   tags: [
+    //     "MERN",
+    //     "Chart.js",
+    //     "React Hooks",
+    //     "JWT Refresh Tokens",
+    //     "Mongoose Virtuals",
+    //     "Progressive Web App",
+    //   ],
+    // },
+    // {
+    //   title: "Recipe Sharing Community",
+    //   description:
+    //     "A platform for food enthusiasts to share, discover, and rate recipes with advanced search and filtering options.",
+    //   link: "https://github.com/username/recipe-community",
+    //   tags: [
+    //     "MERN",
+    //     "Elasticsearch",
+    //     "Redux Thunk",
+    //     "Cloudinary",
+    //     "Social Auth",
+    //     "Infinite Scrolling",
+    //   ],
+    // },
+    // {
+    //   title: "Online Learning Management System",
+    //   description:
+    //     "An e-learning platform with course creation, video lessons, quizzes, and student progress tracking.",
+    //   link: "https://github.com/username/mern-lms",
+    //   tags: [
+    //     "MERN",
+    //     "WebRTC",
+    //     "Redux Observable",
+    //     "MongoDB Transactions",
+    //     "Stripe Subscriptions",
+    //     "React Suspense",
+    //   ],
+    // },
+    // {
+    //   title: "Real Estate Listing Portal",
+    //   description:
+    //     "A property listing website with advanced search, virtual tours, and agent-client messaging system.",
+    //   link: "https://github.com/username/realestate-portal",
+    //   tags: [
+    //     "MERN",
+    //     "Google Maps API",
+    //     "WebSockets",
+    //     "Redux Persist",
+    //     "Image Carousel",
+    //     "Geospatial Queries",
+    //   ],
+    // },
     // Add more projects here if needed
   ];
 
